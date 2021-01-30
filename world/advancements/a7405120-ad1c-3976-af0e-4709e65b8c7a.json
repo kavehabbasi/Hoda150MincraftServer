@@ -1,0 +1,153 @@
+{
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2021-01-22 02:12:28 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2021-01-22 02:16:41 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2021-01-22 02:16:41 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2021-01-22 02:16:41 +0330"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2021-01-21 23:44:41 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2021-01-22 02:16:41 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-01-21 23:42:29 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2021-01-22 02:16:41 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-01-21 23:42:29 +0330"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:drowned": "2021-01-21 23:46:22 +0330"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:drowned": "2021-01-21 23:46:22 +0330"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2021-01-21 23:44:41 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2021-01-21 23:44:41 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2021-01-22 02:16:41 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-01-21 23:42:29 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-01-21 23:42:29 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2021-01-22 02:16:41 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2021-01-22 02:16:41 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2021-01-22 02:16:41 +0330"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2021-01-21 23:46:22 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-01-21 23:42:29 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-01-21 23:42:29 +0330"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle_edge": "2021-01-22 02:15:02 +0330",
+      "minecraft:desert": "2021-01-22 02:09:53 +0330",
+      "minecraft:jungle": "2021-01-22 02:15:28 +0330",
+      "minecraft:jungle_hills": "2021-01-22 02:15:42 +0330",
+      "minecraft:deep_lukewarm_ocean": "2021-01-22 02:08:00 +0330",
+      "minecraft:badlands": "2021-01-22 02:08:44 +0330",
+      "minecraft:savanna_plateau": "2021-01-22 02:10:26 +0330",
+      "minecraft:beach": "2021-01-21 23:42:03 +0330",
+      "minecraft:river": "2021-01-21 23:46:33 +0330",
+      "minecraft:lukewarm_ocean": "2021-01-22 02:08:17 +0330",
+      "minecraft:wooded_badlands_plateau": "2021-01-22 02:08:57 +0330",
+      "minecraft:savanna": "2021-01-22 02:09:54 +0330",
+      "minecraft:plains": "2021-01-21 23:42:12 +0330"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

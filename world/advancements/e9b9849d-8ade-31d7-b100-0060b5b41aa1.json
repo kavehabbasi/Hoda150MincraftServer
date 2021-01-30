@@ -1,0 +1,81 @@
+{
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-01-22 02:01:19 +0330"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2021-01-22 02:10:20 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-01-22 02:01:19 +0330"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2021-01-22 02:03:26 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-01-22 02:01:19 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-01-22 02:01:19 +0330"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2021-01-22 02:08:33 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2021-01-22 02:04:15 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-01-22 02:01:19 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2021-01-22 02:04:15 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-01-22 02:01:19 +0330"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mushroom_fields": "2021-01-22 02:02:03 +0330",
+      "minecraft:deep_lukewarm_ocean": "2021-01-22 02:01:42 +0330",
+      "minecraft:beach": "2021-01-22 00:41:36 +0330",
+      "minecraft:river": "2021-01-22 02:01:20 +0330",
+      "minecraft:lukewarm_ocean": "2021-01-22 02:01:33 +0330",
+      "minecraft:mushroom_field_shore": "2021-01-22 02:02:09 +0330",
+      "minecraft:plains": "2021-01-22 00:41:28 +0330"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
