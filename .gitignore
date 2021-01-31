@@ -1,3 +1,7 @@
 .mixin.out/
 .vs/
 logs/
+<<<<<<< HEAD
+=======
+server.properties
+>>>>>>> d205e70b4b8e4feee372cff8516a96c5e9790cae
