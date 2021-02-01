@@ -1,0 +1,315 @@
+---- Minecraft Crash Report ----
+// Shall we play a game?
+
+Time: 1/31/21 6:12 PM
+Description: Watching Server
+
+java.lang.Error: ServerHangWatchdog detected that a single server tick took 60.00 seconds (should be max 0.05)
+	at net.minecraft.advancements.PlayerAdvancements.func_192738_c(PlayerAdvancements.java:362) ~[?:?] {re:classloading}
+	at net.minecraft.advancements.PlayerAdvancements.func_192742_b(PlayerAdvancements.java:337) ~[?:?] {re:classloading}
+	at net.minecraft.advancements.PlayerAdvancements.func_192742_b(PlayerAdvancements.java:355) ~[?:?] {re:classloading}
+	at net.minecraft.advancements.PlayerAdvancements.func_192742_b(PlayerAdvancements.java:351) ~[?:?] {re:classloading}
+	at net.minecraft.advancements.PlayerAdvancements.func_192750_a(PlayerAdvancements.java:218) ~[?:?] {re:classloading}
+	at net.minecraft.advancements.ICriterionTrigger$Listener.func_192159_a(SourceFile:35) ~[?:?] {re:classloading}
+	at net.minecraft.advancements.criterion.AbstractCriterionTrigger.func_235959_a_(SourceFile:72) ~[?:?] {re:classloading}
+	at net.minecraft.advancements.criterion.InventoryChangeTrigger.func_234804_a_(SourceFile:54) ~[?:?] {re:classloading}
+	at net.minecraft.advancements.criterion.InventoryChangeTrigger.func_234803_a_(SourceFile:50) ~[?:?] {re:classloading}
+	at net.minecraft.entity.player.ServerPlayerEntity.func_71111_a(ServerPlayerEntity.java:942) ~[?:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.inventory.container.Container.func_75142_b(Container.java:129) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.player.ServerPlayerEntity.func_71001_a(ServerPlayerEntity.java:749) ~[?:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.entity.item.ItemEntity.func_70100_b_(ItemEntity.java:328) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.player.PlayerEntity.func_71044_o(PlayerEntity.java:546) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.player.PlayerEntity.func_70636_d(PlayerEntity.java:517) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.LivingEntity.func_70071_h_(LivingEntity.java:2158) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:223) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404) ~[?:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207) ~[?:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:864) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:786) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:641) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.lambda$startServer$0(MinecraftServer.java:232) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer$$Lambda$5377/1630796134.run(Unknown Source) ~[?:?] {}
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_281] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at net.minecraft.advancements.PlayerAdvancements.func_192738_c(PlayerAdvancements.java:362) ~[?:?] {re:classloading}
+	at net.minecraft.advancements.PlayerAdvancements.func_192742_b(PlayerAdvancements.java:337) ~[?:?] {re:classloading}
+	at net.minecraft.advancements.PlayerAdvancements.func_192742_b(PlayerAdvancements.java:355) ~[?:?] {re:classloading}
+	at net.minecraft.advancements.PlayerAdvancements.func_192742_b(PlayerAdvancements.java:351) ~[?:?] {re:classloading}
+	at net.minecraft.advancements.PlayerAdvancements.func_192750_a(PlayerAdvancements.java:218) ~[?:?] {re:classloading}
+	at net.minecraft.advancements.ICriterionTrigger$Listener.func_192159_a(SourceFile:35) ~[?:?] {re:classloading}
+	at net.minecraft.advancements.criterion.AbstractCriterionTrigger.func_235959_a_(SourceFile:72) ~[?:?] {re:classloading}
+	at net.minecraft.advancements.criterion.InventoryChangeTrigger.func_234804_a_(SourceFile:54) ~[?:?] {re:classloading}
+	at net.minecraft.advancements.criterion.InventoryChangeTrigger.func_234803_a_(SourceFile:50) ~[?:?] {re:classloading}
+	at net.minecraft.entity.player.ServerPlayerEntity.func_71111_a(ServerPlayerEntity.java:942) ~[?:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.inventory.container.Container.func_75142_b(Container.java:129) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.player.ServerPlayerEntity.func_71001_a(ServerPlayerEntity.java:749) ~[?:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.entity.item.ItemEntity.func_70100_b_(ItemEntity.java:328) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.player.PlayerEntity.func_71044_o(PlayerEntity.java:546) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.player.PlayerEntity.func_70636_d(PlayerEntity.java:517) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.LivingEntity.func_70071_h_(LivingEntity.java:2158) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.player.PlayerEntity.func_70071_h_(PlayerEntity.java:223) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.entity.player.ServerPlayerEntity.func_71127_g(ServerPlayerEntity.java:404) ~[?:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.network.play.ServerPlayNetHandler.func_73660_a(ServerPlayNetHandler.java:207) ~[?:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:226) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:134) ~[?:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:864) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:291) ~[?:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:786) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:641) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.lambda$startServer$0(MinecraftServer.java:232) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+-- Thread Dump --
+Details:
+	Threads: "Netty Server IO #5" Id=257 BLOCKED on java.util.Collections$SynchronizedRandomAccessList@5d1d65bb owned by "Server thread" Id=49
+	at java.util.Collections$SynchronizedCollection.add(Unknown Source)
+	-  blocked on java.util.Collections$SynchronizedRandomAccessList@5d1d65bb
+	at net.minecraft.network.NetworkSystem$1.initChannel(NetworkSystem.java:86)
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113)
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:637)
+	at io.netty.channel.DefaultChannelPipeline.access$000(DefaultChannelPipeline.java:46)
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1487)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1161)
+	...
+
+
+"Netty Server IO #4" Id=256 BLOCKED on java.util.Collections$SynchronizedRandomAccessList@5d1d65bb owned by "Server thread" Id=49
+	at java.util.Collections$SynchronizedCollection.add(Unknown Source)
+	-  blocked on java.util.Collections$SynchronizedRandomAccessList@5d1d65bb
+	at net.minecraft.network.NetworkSystem$1.initChannel(NetworkSystem.java:86)
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113)
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:637)
+	at io.netty.channel.DefaultChannelPipeline.access$000(DefaultChannelPipeline.java:46)
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1487)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1161)
+	...
+
+
+"Netty Server IO #3" Id=255 BLOCKED on java.util.Collections$SynchronizedRandomAccessList@5d1d65bb owned by "Server thread" Id=49
+	at java.util.Collections$SynchronizedCollection.add(Unknown Source)
+	-  blocked on java.util.Collections$SynchronizedRandomAccessList@5d1d65bb
+	at net.minecraft.network.NetworkSystem$1.initChannel(NetworkSystem.java:86)
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113)
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:637)
+	at io.netty.channel.DefaultChannelPipeline.access$000(DefaultChannelPipeline.java:46)
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1487)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1161)
+	...
+
+
+"Netty Server IO #2" Id=64 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@53da8068
+	-  locked java.util.Collections$UnmodifiableSet@57e50ecb
+	-  locked sun.nio.ch.WindowsSelectorImpl@12e78a53
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"Netty Server IO #1" Id=63 RUNNABLE
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@24e10509
+	-  locked java.util.Collections$UnmodifiableSet@23bf183d
+	-  locked sun.nio.ch.WindowsSelectorImpl@5c53c9d7
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"WorldEdit Session Manager" Id=62 TIMED_WAITING on java.util.TaskQueue@72c8751c
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@72c8751c
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+
+"Server Watchdog" Id=61 RUNNABLE
+	at sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.dumpAllThreads(Unknown Source)
+	at net.minecraft.server.dedicated.ServerHangWatchdog.run(ServerHangWatchdog.java:41)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Thread-6" Id=56 RUNNABLE (in native)
+	at sun.nio.fs.WindowsNativeDispatcher.GetQueuedCompletionStatus0(Native Method)
+	at sun.nio.fs.WindowsNativeDispatcher.GetQueuedCompletionStatus(Unknown Source)
+	at sun.nio.fs.WindowsWatchService$Poller.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Netty Server IO #0" Id=55 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@5e2def01
+	-  locked java.util.Collections$UnmodifiableSet@5087a09
+	-  locked sun.nio.ch.WindowsSelectorImpl@4757060e
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.SelectedSelectionKeySetSelector.select(SelectedSelectionKeySetSelector.java:62)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:756)
+	...
+
+
+"ObjectCleanerThread" Id=54 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@7686eb6d
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@7686eb6d
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Server console handler" Id=53 RUNNABLE (in native)
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at java.io.BufferedInputStream.read1(Unknown Source)
+	at java.io.BufferedInputStream.read(Unknown Source)
+	-  locked java.io.BufferedInputStream@4762575b
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source)
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source)
+	at sun.nio.cs.StreamDecoder.read(Unknown Source)
+	-  locked java.io.InputStreamReader@17ca58c
+	at java.io.InputStreamReader.read(Unknown Source)
+	...
+
+
+"DestroyJavaVM" Id=52 RUNNABLE
+
+
+"Server thread" Id=49 RUNNABLE
+	at net.minecraft.advancements.PlayerAdvancements.func_192738_c(PlayerAdvancements.java:362)
+	at net.minecraft.advancements.PlayerAdvancements.func_192742_b(PlayerAdvancements.java:337)
+	at net.minecraft.advancements.PlayerAdvancements.func_192742_b(PlayerAdvancements.java:355)
+	at net.minecraft.advancements.PlayerAdvancements.func_192742_b(PlayerAdvancements.java:351)
+	at net.minecraft.advancements.PlayerAdvancements.func_192750_a(PlayerAdvancements.java:218)
+	at net.minecraft.advancements.ICriterionTrigger$Listener.func_192159_a(SourceFile:35)
+	at net.minecraft.advancements.criterion.AbstractCriterionTrigger.func_235959_a_(SourceFile:72)
+	at net.minecraft.advancements.criterion.InventoryChangeTrigger.func_234804_a_(SourceFile:54)
+	...
+
+
+"Snooper Timer" Id=50 WAITING on java.util.TaskQueue@7e64b4db
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@7e64b4db
+	at java.lang.Object.wait(Unknown Source)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+
+"Timer hack thread" Id=26 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at net.minecraft.util.Util$6.run(SourceFile:636)
+
+
+"Thread-2" Id=17 RUNNABLE (in native)
+	at sun.nio.fs.WindowsNativeDispatcher.GetQueuedCompletionStatus0(Native Method)
+	at sun.nio.fs.WindowsNativeDispatcher.GetQueuedCompletionStatus(Unknown Source)
+	at sun.nio.fs.WindowsWatchService$Poller.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"Thread-1" Id=16 TIMED_WAITING
+	at sun.misc.Unsafe.park(Native Method)
+	at java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+	at com.electronwill.nightconfig.core.file.FileWatcher$WatcherThread.run(FileWatcher.java:190)
+
+
+"Attach Listener" Id=5 RUNNABLE
+
+
+"Signal Dispatcher" Id=4 RUNNABLE
+
+
+"Finalizer" Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@3ff8e5f9
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@3ff8e5f9
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Unknown Source)
+
+
+"Reference Handler" Id=2 WAITING on java.lang.ref.Reference$Lock@6af5b5d2
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.Reference$Lock@6af5b5d2
+	at java.lang.Object.wait(Unknown Source)
+	at java.lang.ref.Reference.tryHandlePending(Unknown Source)
+	at java.lang.ref.Reference$ReferenceHandler.run(Unknown Source)
+
+
+
+Stacktrace:
+	at net.minecraft.server.dedicated.ServerHangWatchdog.run(ServerHangWatchdog.java:56) [?:?] {re:classloading}
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_281] {}
+
+
+-- Performance stats --
+Details:
+	Random tick rate: 3
+	Level stats: ResourceKey[minecraft:dimension / minecraft:overworld]: players: 1, entities: 237 [minecraft:mooshroom:63,minecraft:chest_minecart:30,minecraft:creeper:26,minecraft:skeleton:20,minecraft:zombie:20], block_entities: 75 [minecraft:mob_spawner:39,minecraft:chest:33,minecraft:furnace:3], block_ticks: 95, fluid_ticks: 420, chunk_source: ServerChunkCache: 4050,
+ResourceKey[minecraft:dimension / minecraft:the_nether]: players: 0, entities: 0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: ServerChunkCache: 0,
+ResourceKey[minecraft:dimension / minecraft:the_end]: players: 0, entities: 0 [], block_entities: 0 [], block_ticks: 0, fluid_ticks: 0, chunk_source: ServerChunkCache: 0
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_281, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1089010376 bytes (1038 MB) / 1825570816 bytes (1741 MB) up to 2863661056 bytes (2731 MB)
+	CPUs: 12
+	JVM Flags: 2 total; -Xmx3G -Xms1G
+	ModLauncher: 8.0.9+86+master.3cf110c
+	ModLauncher launch target: fmlserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		/mixin-0.8.2.jar mixin PLUGINSERVICE 
+		/eventbus-4.0.0.jar eventbus PLUGINSERVICE 
+		/forge-1.16.5-36.0.1.jar object_holder_definalize PLUGINSERVICE 
+		/forge-1.16.5-36.0.1.jar runtime_enum_extender PLUGINSERVICE 
+		/accesstransformers-3.0.1.jar accesstransformer PLUGINSERVICE 
+		/forge-1.16.5-36.0.1.jar capability_inject_definalize PLUGINSERVICE 
+		/forge-1.16.5-36.0.1.jar runtimedistcleaner PLUGINSERVICE 
+		/mixin-0.8.2.jar mixin TRANSFORMATIONSERVICE 
+		/forge-1.16.5-36.0.1.jar fml TRANSFORMATIONSERVICE 
+	FML: 36.0
+	Forge: net.minecraftforge:36.0.1
+	FML Language Providers: 
+		javafml@36.0
+		minecraft@1
+	Mod List: 
+		forge-1.16.5-36.0.1-server.jar                    |Minecraft                     |minecraft                     |1.16.5              |DONE      |NOSIGNATURE
+		forge-1.16.5-36.0.1-universal.jar                 |Forge                         |forge                         |36.0.1              |DONE      |22:af:21:d8:19:82:7f:93:94:fe:2b:ac:b7:e4:41:57:68:39:87:b1:a7:5c:c6:44:f9:25:74:21:14:f5:0d:90
+		worldedit-forge-mc1.16.3-7.2.2-dist.jar           |WorldEdit                     |worldedit                     |7.2.2+fc3c499       |DONE      |NOSIGNATURE
+		create-mc1.16.3_v0.3e.jar                         |Create                        |create                        |mc1.16.3_v0.3e      |DONE      |NOSIGNATURE
+		gravestone-1.16.5-1.0.0.jar                       |Gravestone Mod                |gravestone                    |1.16.5-1.0.0        |DONE      |NOSIGNATURE
+		jei-1.16.4-7.6.1.65.jar                           |Just Enough Items             |jei                           |7.6.1.65            |DONE      |NOSIGNATURE
+	Crash Report UUID: 3d8bee42-c2df-4c42-9da9-55f89c20db68
+	Player Count: 1 / 20; [ServerPlayerEntity['Amrol'/73, l='ServerLevel[world]', x=-1679.20, y=10.77, z=-506.45]]
+	Data Packs: vanilla, mod:forge, mod:worldedit (incompatible), mod:create (incompatible), mod:gravestone, mod:jei
+	Is Modded: Definitely; Server brand changed to 'forge'
+	Type: Dedicated Server (map_server.txt)
