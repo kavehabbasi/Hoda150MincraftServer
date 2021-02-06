@@ -263,15 +263,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2021-02-05 23:22:03 +0330"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2021-02-05 23:21:08 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2021-02-05 23:22:03 +0330"
     },
     "done": true
   },
@@ -289,7 +289,9 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2021-02-06 21:58:32 +0330",
       "cooked_beef": "2021-01-31 17:54:48 +0330",
+      "apple": "2021-02-06 21:58:38 +0330",
       "bread": "2021-02-05 23:13:31 +0330",
       "melon_slice": "2021-01-31 17:13:39 +0330",
       "cooked_chicken": "2021-02-05 23:04:12 +0330"
@@ -323,6 +325,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2021-01-31 17:12:59 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2021-02-06 21:38:36 +0330"
     },
     "done": true
   },
@@ -728,6 +736,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2021-02-06 21:38:36 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-01 23:55:52 +0330"
@@ -834,13 +848,20 @@
     "criteria": {
       "minecraft:skeleton": "2021-02-02 00:18:55 +0330",
       "minecraft:creeper": "2021-02-05 23:08:40 +0330",
-      "minecraft:zombie": "2021-02-05 23:11:46 +0330"
+      "minecraft:zombie": "2021-02-05 23:11:46 +0330",
+      "minecraft:drowned": "2021-02-06 21:35:31 +0330"
     },
     "done": false
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2021-01-31 17:41:01 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2021-02-06 21:38:36 +0330"
     },
     "done": true
   },
@@ -961,6 +982,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2021-01-31 17:43:04 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2021-02-06 21:54:00 +0330"
     },
     "done": true
   },
@@ -1108,15 +1135,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_wool": {
-    "criteria": {
-      "has_white_wool": "2021-02-05 23:21:08 +0330"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2021-02-05 23:20:53 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2021-02-05 23:21:08 +0330"
     },
     "done": true
   },
@@ -1384,6 +1411,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2021-02-06 21:39:30 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2021-01-31 17:12:59 +0330"
@@ -1625,6 +1658,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-02-06 21:35:10 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2021-02-05 23:09:24 +0330"
@@ -1709,6 +1748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2021-02-06 21:54:00 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.base/blasting/zinc_ingot_from_ore": {
     "criteria": {
       "has_item": "2021-01-31 17:59:44 +0330"
@@ -1733,15 +1778,15 @@
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/kinetics/pink_seat": {
-    "criteria": {
-      "has_wool": "2021-02-05 23:21:08 +0330"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2021-02-05 23:09:24 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2021-02-05 23:21:08 +0330"
     },
     "done": true
   },
