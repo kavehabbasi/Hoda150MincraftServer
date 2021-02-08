@@ -227,15 +227,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_terracotta": {
-    "criteria": {
-      "has_terracotta": "2021-02-07 00:55:07 +0330"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/paved_limestone_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2021-02-06 22:19:04 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2021-02-07 00:55:07 +0330"
     },
     "done": true
   },
@@ -1217,15 +1217,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_red_dye": "2021-02-07 01:15:10 +0330"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2021-02-06 23:00:35 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2021-02-07 01:15:10 +0330"
     },
     "done": true
   },
@@ -1319,15 +1319,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2021-02-06 23:18:04 +0330"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/mossy_limestone_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2021-02-06 22:19:04 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2021-02-06 23:18:04 +0330"
     },
     "done": true
   },
@@ -1361,15 +1361,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2021-02-06 23:48:43 +0330"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-02-06 23:13:15 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2021-02-06 23:48:43 +0330"
     },
     "done": true
   },
@@ -2254,15 +2254,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2021-02-06 23:44:00 +0330"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/layered_limestone_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2021-02-06 22:19:04 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2021-02-06 23:44:00 +0330"
     },
     "done": true
   },
