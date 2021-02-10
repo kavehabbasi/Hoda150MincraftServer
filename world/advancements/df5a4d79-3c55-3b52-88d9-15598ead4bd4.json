@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-10 23:19:07 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2021-01-31 17:53:10 +0330"
@@ -290,6 +296,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2021-01-31 17:12:59 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-10 23:19:07 +0330"
     },
     "done": true
   },
@@ -1141,6 +1153,7 @@
       "minecraft:lukewarm_ocean": "2021-02-05 23:16:16 +0330",
       "minecraft:wooded_mountains": "2021-02-07 00:45:12 +0330",
       "minecraft:wooded_hills": "2021-02-07 00:44:21 +0330",
+      "minecraft:savanna": "2021-02-11 00:20:56 +0330",
       "minecraft:plains": "2021-02-05 23:15:50 +0330"
     },
     "done": false
@@ -1652,6 +1665,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2021-02-06 21:58:32 +0330",
+      "cooked_mutton": "2021-02-10 23:21:19 +0330",
       "cooked_beef": "2021-01-31 17:54:48 +0330",
       "apple": "2021-02-06 21:58:38 +0330",
       "bread": "2021-02-05 23:13:31 +0330",
@@ -1786,6 +1800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-10 23:19:07 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/diorite_pillar": {
     "criteria": {
       "has_ingredient": "2021-01-31 17:53:36 +0330"
@@ -1831,6 +1851,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2021-02-07 01:15:10 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-10 23:19:07 +0330"
     },
     "done": true
   },
@@ -2254,6 +2280,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-10 23:19:07 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_limestone_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2021-02-06 22:19:04 +0330"
@@ -2401,6 +2433,12 @@
   "create:recipes/create.palettes/paved_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_weathered_limestone": "2021-01-31 17:36:05 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-10 23:19:07 +0330"
     },
     "done": true
   },
@@ -2785,6 +2823,12 @@
   "create:recipes/create.base/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2021-02-05 23:21:08 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-10 23:19:07 +0330"
     },
     "done": true
   },

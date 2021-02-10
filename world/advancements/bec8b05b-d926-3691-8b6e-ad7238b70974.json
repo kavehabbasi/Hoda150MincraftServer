@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2021-02-10 23:42:55 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2021-01-28 23:50:30 +0330"
@@ -179,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2021-02-10 23:42:55 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2021-01-21 23:44:41 +0330"
@@ -251,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-10 23:18:57 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting": {
     "criteria": {
       "has_iron_ore": "2021-01-23 12:01:08 +0330"
@@ -308,6 +326,12 @@
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2021-01-28 23:49:58 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2021-02-10 23:42:48 +0330"
     },
     "done": true
   },
@@ -448,6 +472,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-10 23:18:57 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2021-01-29 23:32:56 +0330"
@@ -496,6 +526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-10 23:18:57 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-01-22 22:43:23 +0330"
@@ -541,6 +577,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2021-01-29 23:40:43 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-10 23:18:57 +0330"
     },
     "done": true
   },
@@ -674,6 +716,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2021-02-06 22:15:16 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2021-02-10 23:42:55 +0330"
     },
     "done": true
   },
@@ -941,8 +989,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2021-02-10 23:42:48 +0330"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2021-02-11 00:21:17 +0330",
       "minecraft:skeleton": "2021-01-29 22:25:18 +0330",
       "minecraft:spider": "2021-01-29 23:40:43 +0330",
       "minecraft:creeper": "2021-01-29 22:26:52 +0330",
@@ -954,6 +1009,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2021-02-06 22:43:53 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2021-02-10 23:51:52 +0330"
     },
     "done": true
   },
@@ -1026,6 +1087,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2021-01-28 23:49:58 +0330"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2021-02-11 00:21:33 +0330"
     },
     "done": true
   },
@@ -1194,6 +1261,12 @@
   "create:recipes/create.palettes/polished_weathered_limestone": {
     "criteria": {
       "has_weathered_limestone": "2021-02-07 00:52:06 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-10 23:18:57 +0330"
     },
     "done": true
   },
@@ -1410,6 +1483,12 @@
   "create:recipes/create.palettes/paved_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_weathered_limestone": "2021-02-07 00:52:06 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-10 23:18:57 +0330"
     },
     "done": true
   },
@@ -1775,6 +1854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2021-02-10 23:42:48 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2021-01-22 02:19:48 +0330"
@@ -1943,6 +2028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2021-02-10 23:42:55 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2021-01-29 23:32:56 +0330"
@@ -1970,6 +2061,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2021-02-05 23:10:57 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2021-02-10 23:42:55 +0330"
     },
     "done": true
   },
@@ -2060,6 +2157,18 @@
   "create:recipes/create.base/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2021-01-28 23:49:58 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-02-10 23:18:57 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2021-02-10 23:51:52 +0330"
     },
     "done": true
   },
