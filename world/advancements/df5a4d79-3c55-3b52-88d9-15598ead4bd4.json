@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2021-02-14 11:21:57 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-01-31 17:12:59 +0330"
@@ -707,6 +713,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/controller_rail": {
+    "criteria": {
+      "has_item": "2021-02-14 12:16:35 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-01-31 17:36:04 +0330"
@@ -824,6 +836,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2021-02-14 12:32:44 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2021-01-31 17:41:01 +0330"
@@ -833,6 +851,12 @@
   "create:recipes/create.base/crafting/materials/andesite_alloy_from_zinc": {
     "criteria": {
       "has_item": "2021-02-06 21:38:36 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2021-02-14 11:21:57 +0330"
     },
     "done": true
   },
@@ -1238,6 +1262,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2021-02-14 11:21:57 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2021-01-31 17:12:59 +0330"
@@ -1373,6 +1403,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2021-01-31 17:12:59 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2021-02-14 11:21:57 +0330"
     },
     "done": true
   },
@@ -1601,6 +1637,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-02-06 23:13:15 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2021-02-14 11:21:57 +0330"
     },
     "done": true
   },
@@ -3204,6 +3246,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2021-02-14 11:21:57 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2021-02-05 23:21:08 +0330"
@@ -3855,6 +3903,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-02-13 02:07:15 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2021-02-14 11:42:11 +0330"
     },
     "done": true
   },
