@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2021-02-16 04:37:17 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2021-01-29 23:32:56 +0330"
@@ -1531,6 +1537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2021-02-16 00:27:28 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2021-02-06 22:43:53 +0330"
@@ -1763,6 +1775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2021-02-16 05:11:18 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_limestone": {
     "criteria": {
       "has_limestone": "2021-02-12 22:55:02 +0330"
@@ -1910,6 +1928,12 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2021-02-07 00:38:19 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+    "criteria": {
+      "has_log": "2021-02-16 03:17:28 +0330"
     },
     "done": true
   },
@@ -2635,6 +2659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2021-02-16 00:46:19 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-01-21 23:18:25 +0330"
@@ -3085,6 +3115,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2021-02-16 04:04:22 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2021-01-22 02:17:58 +0330"
@@ -3238,6 +3274,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2021-02-12 00:18:02 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2021-02-16 02:06:12 +0330"
     },
     "done": true
   },
