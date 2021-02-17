@@ -1238,6 +1238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2021-02-18 00:44:20 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/logistics/adjustable_repeater": {
     "criteria": {
       "has_item": "2021-01-31 17:41:01 +0330"
@@ -2348,6 +2354,7 @@
       "apple": "2021-02-06 21:58:38 +0330",
       "bread": "2021-02-05 23:13:31 +0330",
       "melon_slice": "2021-01-31 17:13:39 +0330",
+      "beetroot": "2021-02-17 22:04:37 +0330",
       "cooked_chicken": "2021-02-05 23:04:12 +0330"
     },
     "done": false
@@ -3639,6 +3646,12 @@
   "create:recipes/create.palettes/limestone_bricks_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2021-02-06 22:19:04 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2021-02-18 00:44:19 +0330"
     },
     "done": true
   },
