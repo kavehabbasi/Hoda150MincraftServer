@@ -1172,6 +1172,12 @@
     },
     "done": true
   },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2021-02-19 12:41:13 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2021-02-13 22:36:55 +0330"
@@ -2569,6 +2575,12 @@
     },
     "done": true
   },
+  "create:its_alive": {
+    "criteria": {
+      "0": "2021-02-19 12:41:02 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2021-02-05 23:07:05 +0330"
@@ -2998,6 +3010,12 @@
   "create:recipes/create.palettes/granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-01-31 17:35:33 +0330"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2021-02-19 11:20:39 +0330"
     },
     "done": true
   },
