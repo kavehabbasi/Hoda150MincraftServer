@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2021-02-21 15:26:48 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2021-01-31 17:12:59 +0330"
@@ -428,6 +434,12 @@
   "create:recipes/create.base/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
       "has_item": "2021-02-06 21:38:36 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2021-02-21 15:33:27 +0330"
     },
     "done": true
   },
@@ -713,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2021-02-21 15:26:45 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-02-13 02:07:15 +0330"
@@ -910,6 +928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2021-02-21 15:27:44 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2021-01-31 17:41:01 +0330"
@@ -991,6 +1015,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2021-02-13 22:36:53 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2021-02-21 15:33:27 +0330"
     },
     "done": true
   },
@@ -1342,6 +1372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2021-02-21 15:26:45 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2021-02-06 23:39:28 +0330"
@@ -1516,6 +1552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2021-02-21 15:27:44 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/granite_pillar": {
     "criteria": {
       "has_ingredient": "2021-01-31 17:35:33 +0330"
@@ -1639,6 +1681,12 @@
   "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2021-01-31 17:12:59 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2021-02-21 15:26:53 +0330"
     },
     "done": true
   },
@@ -1939,6 +1987,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2021-02-20 23:49:40 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2021-02-21 15:33:27 +0330"
     },
     "done": true
   },
@@ -2577,6 +2631,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2021-02-21 15:26:53 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2021-02-05 23:09:24 +0330"
@@ -2616,6 +2676,12 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-02-14 00:52:02 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/dark_oak_window_pane": {
+    "criteria": {
+      "has_ingredient": "2021-02-21 15:29:56 +0330"
     },
     "done": true
   },
@@ -2994,6 +3060,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2021-01-31 17:12:59 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2021-02-21 15:26:48 +0330"
     },
     "done": true
   },
@@ -4092,6 +4164,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2021-02-06 23:27:55 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2021-02-21 15:32:03 +0330"
     },
     "done": true
   },
