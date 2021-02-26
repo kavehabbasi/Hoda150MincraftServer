@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_the_recipe": "2021-02-26 17:01:39 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2021-01-22 02:16:41 +0330"
@@ -89,9 +95,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2021-02-26 16:33:09 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-02-14 00:36:00 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-02-26 16:37:58 +0330"
     },
     "done": true
   },
@@ -311,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2021-02-26 17:01:42 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2021-02-14 00:00:10 +0330"
@@ -323,6 +347,18 @@
     },
     "done": true
   },
+  "create:wrench": {
+    "criteria": {
+      "0": "2021-02-26 16:47:16 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2021-02-26 17:01:42 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/fancy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-02-14 00:14:27 +0330"
@@ -332,6 +368,12 @@
   "create:recipes/create.palettes/diorite_pillar": {
     "criteria": {
       "has_ingredient": "2021-02-14 00:36:00 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2021-02-26 16:33:09 +0330"
     },
     "done": true
   },
@@ -350,6 +392,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2021-02-14 00:00:10 +0330"
+    },
+    "done": true
+  },
+  "create:its_alive": {
+    "criteria": {
+      "0": "2021-02-26 16:42:53 +0330"
     },
     "done": true
   },
@@ -647,9 +695,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-02-26 16:37:58 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2021-02-14 00:22:38 +0330"
+    },
+    "done": true
+  },
+  "create:goggles": {
+    "criteria": {
+      "0": "2021-02-26 16:48:19 +0330"
     },
     "done": true
   },
@@ -689,6 +749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_green_dye": "2021-02-26 17:01:42 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2021-02-14 00:20:19 +0330"
@@ -719,6 +785,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2021-02-26 17:00:05 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/diorite_cobblestone_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-02-14 00:36:00 +0330"
@@ -734,6 +806,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2021-01-22 02:16:41 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2021-02-26 17:01:42 +0330"
     },
     "done": true
   },
@@ -776,6 +854,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-02-14 00:36:00 +0330"
+    },
+    "done": true
+  },
+  "create:mechanical_drill": {
+    "criteria": {
+      "0": "2021-02-26 16:52:23 +0330"
     },
     "done": true
   },
@@ -1135,6 +1219,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2021-02-26 16:31:13 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2021-02-14 00:03:18 +0330"
@@ -1231,6 +1321,12 @@
     },
     "done": true
   },
+  "create:zapper": {
+    "criteria": {
+      "0": "2021-02-26 16:52:17 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2021-02-13 23:59:27 +0330"
@@ -1264,6 +1360,12 @@
   "create:recipes/create.palettes/mossy_limestone_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2021-02-14 00:39:42 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2021-02-26 16:39:33 +0330"
     },
     "done": true
   },
@@ -1312,6 +1414,18 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-02-14 00:03:18 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2021-02-26 16:39:33 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-02-26 16:37:58 +0330"
     },
     "done": true
   },

@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2021-02-26 16:26:42 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2021-01-28 23:50:30 +0330"
@@ -524,6 +530,12 @@
   "create:recipes/create.palettes/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-01-29 23:26:26 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2021-02-26 14:00:38 +0330"
     },
     "done": true
   },
@@ -1179,6 +1191,12 @@
   "create:recipes/create.palettes/polished_weathered_limestone": {
     "criteria": {
       "has_weathered_limestone": "2021-02-07 00:52:06 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2021-02-26 14:00:38 +0330"
     },
     "done": true
   },
@@ -1990,15 +2008,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2021-02-21 00:52:03 +0330"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2021-02-21 00:25:01 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-02-21 00:52:03 +0330"
     },
     "done": true
   },
@@ -2898,6 +2916,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2021-02-26 16:54:24 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/andesite_bricks_stairs": {
     "criteria": {
       "has_andesite_bricks": "2021-02-19 12:28:03 +0330"
@@ -3282,6 +3306,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2021-02-26 16:26:42 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-14 08:27:57 +0330"
@@ -3483,6 +3513,12 @@
   "create:recipes/create.base/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2021-01-28 23:49:58 +0330"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2021-02-26 16:30:36 +0330"
     },
     "done": true
   },

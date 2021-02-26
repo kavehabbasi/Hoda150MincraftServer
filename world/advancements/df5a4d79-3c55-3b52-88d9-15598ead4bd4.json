@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2021-02-26 16:46:28 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2021-02-05 23:22:03 +0330"
@@ -290,6 +296,12 @@
   "create:recipes/create.palettes/fancy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-01-31 17:36:04 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/glass_from_tiled_glass": {
+    "criteria": {
+      "has_item": "2021-02-26 15:00:44 +0330"
     },
     "done": true
   },
@@ -458,6 +470,12 @@
   "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
     "criteria": {
       "has_light_blue_dye": "2021-02-25 12:24:41 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2021-02-26 16:46:28 +0330"
     },
     "done": true
   },
@@ -821,6 +839,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/ornate_iron_window_pane": {
+    "criteria": {
+      "has_ingredient": "2021-02-26 15:01:57 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2021-02-11 15:04:43 +0330"
@@ -878,6 +902,12 @@
   "create:recipes/create.palettes/granite_pillar": {
     "criteria": {
       "has_ingredient": "2021-01-31 17:35:33 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crimson_window_pane": {
+    "criteria": {
+      "has_ingredient": "2021-02-26 15:02:00 +0330"
     },
     "done": true
   },
@@ -1497,6 +1527,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/vertical_framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2021-02-26 15:00:59 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-02-14 00:52:02 +0330"
@@ -1584,6 +1620,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2021-02-05 23:07:05 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/warped_window_pane": {
+    "criteria": {
+      "has_ingredient": "2021-02-26 15:01:58 +0330"
     },
     "done": true
   },
@@ -2016,6 +2058,12 @@
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2021-02-24 15:44:49 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/smelting/glass_from_horizontal_framed_glass": {
+    "criteria": {
+      "has_item": "2021-02-26 15:01:16 +0330"
     },
     "done": true
   },
@@ -2625,6 +2673,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/acacia_window_pane": {
+    "criteria": {
+      "has_ingredient": "2021-02-26 15:02:05 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2021-01-31 17:12:59 +0330"
@@ -2718,6 +2772,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-02-24 15:45:47 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2021-02-26 16:15:58 +0330"
     },
     "done": true
   },
@@ -2967,6 +3027,7 @@
       "minecraft:skeleton": "2021-02-02 00:18:55 +0330",
       "minecraft:spider": "2021-02-06 23:57:20 +0330",
       "minecraft:creeper": "2021-02-05 23:08:40 +0330",
+      "minecraft:phantom": "2021-02-26 17:00:49 +0330",
       "minecraft:zombified_piglin": "2021-02-21 01:02:23 +0330",
       "minecraft:witch": "2021-02-11 16:48:32 +0330",
       "minecraft:husk": "2021-02-14 00:53:44 +0330",
@@ -3047,6 +3108,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2021-02-13 22:45:42 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/horizontal_framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2021-02-26 15:01:16 +0330"
     },
     "done": true
   },
@@ -3434,6 +3501,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/oak_window_pane": {
+    "criteria": {
+      "has_ingredient": "2021-02-26 15:02:23 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2021-01-31 17:12:59 +0330"
@@ -3728,6 +3801,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/birch_window_pane": {
+    "criteria": {
+      "has_ingredient": "2021-02-26 15:02:19 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2021-02-06 23:18:04 +0330"
@@ -3980,6 +4059,7 @@
       "cooked_mutton": "2021-02-10 23:21:19 +0330",
       "cooked_beef": "2021-01-31 17:54:48 +0330",
       "apple": "2021-02-06 21:58:38 +0330",
+      "potato": "2021-02-26 14:00:46 +0330",
       "bread": "2021-02-05 23:13:31 +0330",
       "melon_slice": "2021-01-31 17:13:39 +0330",
       "beetroot": "2021-02-17 22:04:37 +0330",
@@ -4353,6 +4433,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/smelting/glass_from_vertical_framed_glass": {
+    "criteria": {
+      "has_item": "2021-02-26 15:00:59 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2021-02-24 15:23:01 +0330"
@@ -4398,6 +4484,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2021-02-11 16:58:12 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/tiled_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2021-02-26 15:00:44 +0330"
     },
     "done": true
   },
@@ -4665,6 +4757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2021-02-26 16:46:28 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2021-02-25 12:23:49 +0330"
@@ -4758,6 +4856,12 @@
   "create:recipes/create.base/crafting/materials/copper_casing": {
     "criteria": {
       "has_item": "2021-02-06 23:04:36 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2021-02-26 16:46:28 +0330"
     },
     "done": true
   },
