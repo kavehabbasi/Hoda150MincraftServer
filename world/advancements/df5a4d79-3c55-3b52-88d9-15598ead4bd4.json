@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone": {
+    "criteria": {
+      "has_vine": "2021-03-05 18:15:03 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2021-02-21 00:13:21 +0330"
@@ -326,6 +332,12 @@
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_emerald_block": "2021-02-21 00:28:19 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting": {
+    "criteria": {
+      "has_emerald_ore": "2021-03-05 16:17:49 +0330"
     },
     "done": true
   },
@@ -2145,6 +2157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting": {
+    "criteria": {
+      "has_emerald_ore": "2021-03-05 16:17:49 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-01 23:55:52 +0330"
@@ -3639,6 +3657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_from_smelting": {
+    "criteria": {
+      "has_lapis_ore": "2021-03-05 16:17:53 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2021-01-31 17:12:59 +0330"
@@ -3666,6 +3690,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2021-01-31 17:12:59 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting": {
+    "criteria": {
+      "has_redstone_ore": "2021-03-05 16:16:58 +0330"
     },
     "done": true
   },
@@ -3810,6 +3840,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2021-02-06 23:18:04 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting": {
+    "criteria": {
+      "has_diamond_ore": "2021-03-05 16:17:08 +0330"
     },
     "done": true
   },
@@ -4063,6 +4099,7 @@
       "bread": "2021-02-05 23:13:31 +0330",
       "melon_slice": "2021-01-31 17:13:39 +0330",
       "beetroot": "2021-02-17 22:04:37 +0330",
+      "golden_carrot": "2021-03-05 16:49:31 +0330",
       "cooked_chicken": "2021-02-05 23:04:12 +0330"
     },
     "done": false
@@ -4301,6 +4338,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2021-03-05 16:17:08 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2021-02-05 23:21:08 +0330"
@@ -4472,6 +4515,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2021-02-06 22:14:44 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting": {
+    "criteria": {
+      "has_redstone_ore": "2021-03-05 16:16:58 +0330"
     },
     "done": true
   },
@@ -4718,6 +4767,12 @@
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_warped_planks": "2021-02-13 22:36:58 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_from_blasting": {
+    "criteria": {
+      "has_lapis_ore": "2021-03-05 16:17:53 +0330"
     },
     "done": true
   },
