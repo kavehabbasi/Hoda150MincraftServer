@@ -2463,6 +2463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2021-03-09 00:19:30 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_gray_dye": "2021-02-25 12:25:32 +0330"
@@ -3042,12 +3048,15 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2021-02-11 23:35:20 +0330",
+      "minecraft:blaze": "2021-03-09 00:25:11 +0330",
       "minecraft:skeleton": "2021-02-02 00:18:55 +0330",
+      "minecraft:ghast": "2021-03-09 00:18:49 +0330",
       "minecraft:spider": "2021-02-06 23:57:20 +0330",
       "minecraft:creeper": "2021-02-05 23:08:40 +0330",
       "minecraft:phantom": "2021-02-26 17:00:49 +0330",
       "minecraft:zombified_piglin": "2021-02-21 01:02:23 +0330",
       "minecraft:witch": "2021-02-11 16:48:32 +0330",
+      "minecraft:wither_skeleton": "2021-03-09 00:24:38 +0330",
       "minecraft:husk": "2021-02-14 00:53:44 +0330",
       "minecraft:enderman": "2021-02-06 23:58:48 +0330",
       "minecraft:silverfish": "2021-02-13 00:56:01 +0330",
@@ -4620,6 +4629,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2021-03-09 00:24:34 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2021-02-01 23:45:05 +0330"
@@ -4839,6 +4854,12 @@
   "create:recipes/create.palettes/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2021-02-13 22:36:53 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2021-03-09 00:19:30 +0330"
     },
     "done": true
   },
