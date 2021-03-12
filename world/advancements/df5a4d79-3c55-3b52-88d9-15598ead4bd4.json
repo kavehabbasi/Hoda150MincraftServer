@@ -2445,6 +2445,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/smelting/glass_pane_from_vertical_framed_glass_pane": {
+    "criteria": {
+      "has_item": "2021-03-12 17:36:51 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2021-02-13 22:36:39 +0330"
@@ -3918,6 +3924,12 @@
     },
     "done": true
   },
+  "create:recipes/decorations/smelting/glass_pane_from_horizontal_framed_glass_pane": {
+    "criteria": {
+      "has_item": "2021-03-12 17:36:49 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2021-02-07 00:55:07 +0330"
@@ -4716,6 +4728,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2021-01-31 17:12:59 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/smelting/glass_pane_from_tiled_glass_pane": {
+    "criteria": {
+      "has_item": "2021-03-12 17:37:08 +0330"
     },
     "done": true
   },
