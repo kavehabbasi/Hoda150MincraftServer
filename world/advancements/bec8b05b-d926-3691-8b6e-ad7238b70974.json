@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2021-03-14 00:06:05 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2021-01-22 02:18:47 +0330"
@@ -884,6 +890,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2021-02-11 00:21:17 +0330",
+      "minecraft:blaze": "2021-03-13 23:59:50 +0330",
       "minecraft:skeleton": "2021-01-29 22:25:18 +0330",
       "minecraft:ravager": "2021-02-21 00:47:13 +0330",
       "minecraft:ghast": "2021-02-13 01:18:28 +0330",
@@ -1206,6 +1213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2021-03-14 00:01:57 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/mossy_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-01-29 22:28:53 +0330"
@@ -1230,6 +1243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2021-03-14 01:04:17 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2021-02-16 13:18:28 +0330"
@@ -1245,6 +1264,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2021-02-14 08:27:57 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2021-03-14 00:24:58 +0330"
     },
     "done": true
   },
@@ -2846,6 +2871,7 @@
     "criteria": {
       "minecraft:pig": "2021-02-16 16:02:02 +0330",
       "minecraft:sheep": "2021-01-23 12:00:04 +0330",
+      "minecraft:ocelot": "2021-03-14 01:06:07 +0330",
       "minecraft:cow": "2021-01-22 22:57:57 +0330",
       "minecraft:chicken": "2021-02-16 15:46:49 +0330"
     },
@@ -3091,6 +3117,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2021-03-14 01:04:17 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2021-01-28 23:49:58 +0330"
@@ -3166,6 +3198,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2021-02-14 12:36:06 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2021-03-14 00:48:57 +0330"
     },
     "done": true
   },
@@ -3853,6 +3891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2021-03-14 01:04:17 +0330"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2021-01-22 02:18:02 +0330"
@@ -3886,6 +3930,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-02-06 23:35:11 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2021-03-14 00:01:57 +0330"
     },
     "done": true
   },
@@ -3952,6 +4002,12 @@
   "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-02-16 16:01:39 +0330"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2021-03-14 00:01:57 +0330"
     },
     "done": true
   },
