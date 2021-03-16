@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2021-03-17 02:50:48 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-02-12 23:52:50 +0330"
@@ -314,6 +320,18 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2021-02-15 10:07:28 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2021-03-17 02:27:44 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2021-03-17 01:33:39 +0330"
     },
     "done": true
   },
@@ -404,6 +422,12 @@
   "create:recipes/create.palettes/chiseled_scoria_from_scoria_stonecutting": {
     "criteria": {
       "has_scoria": "2021-01-29 23:35:27 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-03-17 02:27:44 +0330"
     },
     "done": true
   },
@@ -671,6 +695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-03-17 03:04:51 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2021-02-12 00:18:02 +0330"
@@ -899,9 +929,11 @@
       "minecraft:creeper": "2021-01-29 22:26:52 +0330",
       "minecraft:zombified_piglin": "2021-02-21 01:02:22 +0330",
       "minecraft:witch": "2021-02-13 02:34:59 +0330",
+      "minecraft:shulker": "2021-03-17 02:27:29 +0330",
       "minecraft:cave_spider": "2021-02-14 00:33:26 +0330",
       "minecraft:enderman": "2021-02-11 23:28:45 +0330",
       "minecraft:silverfish": "2021-02-13 00:58:29 +0330",
+      "minecraft:endermite": "2021-03-17 02:52:23 +0330",
       "minecraft:zombie": "2021-01-23 11:59:36 +0330",
       "minecraft:drowned": "2021-01-22 01:54:18 +0330"
     },
@@ -1123,6 +1155,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2021-03-17 00:50:12 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-14 08:27:57 +0330"
@@ -1216,6 +1254,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2021-03-14 00:01:57 +0330"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-03-17 01:03:28 +0330"
     },
     "done": true
   },
@@ -1860,6 +1904,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2021-03-17 02:27:44 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/paved_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-01-29 22:28:53 +0330"
@@ -1869,6 +1919,12 @@
   "create:recipes/create.palettes/limestone_pillar": {
     "criteria": {
       "has_ingredient": "2021-02-12 22:55:02 +0330"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2021-03-17 02:49:37 +0330"
     },
     "done": true
   },
@@ -1887,6 +1943,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2021-01-22 02:19:48 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-03-17 03:04:51 +0330"
     },
     "done": true
   },
@@ -2368,6 +2430,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-03-17 02:27:44 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2021-01-22 22:52:45 +0330"
@@ -2431,6 +2499,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_valve": {
     "criteria": {
       "has_item": "2021-02-14 01:22:01 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-03-17 01:05:33 +0330"
     },
     "done": true
   },
@@ -2696,6 +2770,12 @@
   "create:recipes/create.base/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2021-01-29 23:32:56 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-03-17 03:04:51 +0330"
     },
     "done": true
   },
@@ -3003,6 +3083,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-03-17 03:04:51 +0330"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2021-01-21 23:49:09 +0330"
@@ -3243,6 +3329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-03-17 00:31:11 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-01-29 22:43:18 +0330"
@@ -3276,6 +3368,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-01-28 23:49:58 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-03-17 00:31:11 +0330"
     },
     "done": true
   },
@@ -3324,6 +3422,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-02-21 00:52:03 +0330"
+    },
+    "done": true
+  },
+  "create:goggles": {
+    "criteria": {
+      "0": "2021-03-17 00:04:31 +0330"
     },
     "done": true
   },
@@ -3483,6 +3587,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-03-17 03:04:51 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_mossy_cobblestone": "2021-02-10 23:18:57 +0330"
@@ -3549,9 +3659,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-03-17 01:05:33 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2021-02-21 00:13:33 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-03-17 01:05:33 +0330"
     },
     "done": true
   },
@@ -3873,6 +3995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2021-03-17 02:27:48 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/acacia_window": {
     "criteria": {
       "has_ingredient": "2021-02-16 13:18:28 +0330"
@@ -3933,6 +4061,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2021-03-17 02:27:16 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2021-03-14 00:01:57 +0330"
@@ -3954,6 +4088,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-02-12 22:18:44 +0330"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2021-03-17 01:31:59 +0330"
     },
     "done": true
   },
@@ -4032,6 +4172,12 @@
   "create:crushing_wheel": {
     "criteria": {
       "0": "2021-02-19 12:31:19 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2021-03-17 03:04:51 +0330"
     },
     "done": true
   },
@@ -4143,6 +4289,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2021-03-17 01:05:33 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2021-01-28 23:50:30 +0330"
@@ -4179,6 +4331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2021-03-17 02:27:44 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2021-02-21 00:24:42 +0330"
@@ -4212,6 +4370,18 @@
   "create:recipes/create.base/blasting/zinc_ingot_from_ore": {
     "criteria": {
       "has_item": "2021-02-07 00:50:46 +0330"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-03-17 01:03:28 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2021-03-17 01:05:33 +0330"
     },
     "done": true
   },
@@ -4344,6 +4514,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2021-02-14 12:04:13 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2021-03-17 02:27:44 +0330"
     },
     "done": true
   },
