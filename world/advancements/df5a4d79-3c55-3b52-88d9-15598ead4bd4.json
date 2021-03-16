@@ -1,4 +1,10 @@
 {
+  "create:recipes/create.palettes/fancy_scoria_bricks_slab_from_fancy_scoria_bricks_stonecutting": {
+    "criteria": {
+      "has_fancy_scoria_bricks": "2021-03-16 15:03:00 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2021-01-31 17:12:59 +0330"
@@ -173,6 +179,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/paved_scoria_wall": {
+    "criteria": {
+      "has_paved_scoria": "2021-03-16 15:03:17 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-02-11 16:07:42 +0330"
@@ -290,6 +302,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2021-01-31 17:12:59 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/fancy_diorite_bricks_stairs": {
+    "criteria": {
+      "has_fancy_diorite_bricks": "2021-03-16 14:02:01 +0330"
     },
     "done": true
   },
@@ -671,6 +689,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/paved_scoria_stairs": {
+    "criteria": {
+      "has_paved_scoria": "2021-03-16 15:03:17 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2021-02-01 23:55:52 +0330"
@@ -794,6 +818,12 @@
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2021-02-13 22:36:55 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_scoria_wall_from_polished_scoria_stonecutting": {
+    "criteria": {
+      "has_polished_scoria": "2021-03-16 15:03:24 +0330"
     },
     "done": true
   },
@@ -977,6 +1007,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/fancy_scoria_bricks_wall": {
+    "criteria": {
+      "has_fancy_scoria_bricks": "2021-03-16 15:03:00 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-02-24 15:45:47 +0330"
@@ -992,6 +1028,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2021-02-24 15:45:47 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/paved_scoria_slab_from_paved_scoria_stonecutting": {
+    "criteria": {
+      "has_paved_scoria": "2021-03-16 15:03:17 +0330"
     },
     "done": true
   },
@@ -1049,6 +1091,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/fancy_granite_bricks_slab_from_fancy_granite_bricks_stonecutting": {
+    "criteria": {
+      "has_fancy_granite_bricks": "2021-03-16 14:01:45 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_pillar_from_limestone_stonecutting": {
     "criteria": {
       "has_limestone": "2021-02-06 22:19:04 +0330"
@@ -1058,6 +1106,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2021-02-06 23:32:05 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/fancy_diorite_bricks_stairs_from_fancy_diorite_bricks_stonecutting": {
+    "criteria": {
+      "has_fancy_diorite_bricks": "2021-03-16 14:02:01 +0330"
     },
     "done": true
   },
@@ -1079,9 +1133,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/granite_bricks_slab_from_granite_bricks_stonecutting": {
+    "criteria": {
+      "has_granite_bricks": "2021-03-16 14:01:43 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2021-03-12 23:45:19 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/scoria_bricks_slab": {
+    "criteria": {
+      "has_scoria_bricks": "2021-03-16 15:02:54 +0330"
     },
     "done": true
   },
@@ -1254,6 +1320,12 @@
       "minecraft:soul_sand_valley": "2021-02-12 00:15:18 +0330",
       "minecraft:warped_forest": "2021-02-13 01:48:09 +0330",
       "minecraft:basalt_deltas": "2021-02-13 01:49:30 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/fancy_granite_bricks_stairs": {
+    "criteria": {
+      "has_fancy_granite_bricks": "2021-03-16 14:01:45 +0330"
     },
     "done": true
   },
@@ -1569,6 +1641,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/paved_diorite_wall": {
+    "criteria": {
+      "has_paved_diorite": "2021-03-16 14:01:58 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-01-31 17:12:59 +0330"
@@ -1587,6 +1665,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/fancy_diorite_bricks_wall_from_fancy_diorite_bricks_stonecutting": {
+    "criteria": {
+      "has_fancy_diorite_bricks": "2021-03-16 14:02:01 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2021-02-07 00:06:22 +0330"
@@ -1599,9 +1683,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/diorite_bricks_wall_from_diorite_bricks_stonecutting": {
+    "criteria": {
+      "has_diorite_bricks": "2021-03-16 14:01:57 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2021-01-31 17:12:59 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/scoria_bricks_stairs_from_scoria_bricks_stonecutting": {
+    "criteria": {
+      "has_scoria_bricks": "2021-03-16 15:02:54 +0330"
     },
     "done": true
   },
@@ -1629,6 +1725,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/paved_diorite_stairs": {
+    "criteria": {
+      "has_paved_diorite": "2021-03-16 14:01:58 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-02-06 23:13:15 +0330"
@@ -1650,6 +1752,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-03-12 23:59:34 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/granite_bricks_wall_from_granite_bricks_stonecutting": {
+    "criteria": {
+      "has_granite_bricks": "2021-03-16 14:01:43 +0330"
     },
     "done": true
   },
@@ -1767,6 +1875,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/diorite_bricks_stairs": {
+    "criteria": {
+      "has_diorite_bricks": "2021-03-16 14:01:57 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2021-01-31 17:43:04 +0330"
@@ -1776,6 +1890,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2021-01-31 17:12:59 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/paved_scoria_wall_from_paved_scoria_stonecutting": {
+    "criteria": {
+      "has_paved_scoria": "2021-03-16 15:03:17 +0330"
     },
     "done": true
   },
@@ -1965,6 +2085,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/paved_granite_stairs_from_paved_granite_stonecutting": {
+    "criteria": {
+      "has_paved_granite": "2021-03-16 14:01:48 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2021-02-11 15:07:22 +0330"
@@ -2151,6 +2277,12 @@
     },
     "done": true
   },
+  "create:deployer": {
+    "criteria": {
+      "0": "2021-03-16 13:40:06 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks": {
     "criteria": {
       "has_mossy_cobblestone": "2021-02-10 23:19:07 +0330"
@@ -2307,6 +2439,12 @@
     },
     "done": true
   },
+  "create:chute": {
+    "criteria": {
+      "0": "2021-03-16 13:53:56 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2021-02-06 23:32:05 +0330"
@@ -2346,6 +2484,12 @@
   "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
     "criteria": {
       "has_brown_dye": "2021-02-25 12:25:39 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/fancy_diorite_bricks_slab_from_fancy_diorite_bricks_stonecutting": {
+    "criteria": {
+      "has_fancy_diorite_bricks": "2021-03-16 14:02:01 +0330"
     },
     "done": true
   },
@@ -2427,6 +2571,18 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/scoria_bricks_stairs": {
+    "criteria": {
+      "has_scoria_bricks": "2021-03-16 15:02:54 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/diorite_bricks_stairs_from_diorite_bricks_stonecutting": {
+    "criteria": {
+      "has_diorite_bricks": "2021-03-16 14:01:57 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2021-01-31 17:53:10 +0330"
@@ -2463,6 +2619,18 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/granite_bricks_stairs": {
+    "criteria": {
+      "has_granite_bricks": "2021-03-16 14:01:43 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/fancy_scoria_bricks_slab": {
+    "criteria": {
+      "has_fancy_scoria_bricks": "2021-03-16 15:03:00 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2021-02-13 00:31:11 +0330"
@@ -2484,6 +2652,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2021-02-06 21:35:10 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/paved_granite_slab": {
+    "criteria": {
+      "has_paved_granite": "2021-03-16 14:01:48 +0330"
     },
     "done": true
   },
@@ -2727,6 +2901,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_scoria_stairs_from_polished_scoria_stonecutting": {
+    "criteria": {
+      "has_polished_scoria": "2021-03-16 15:03:24 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/overgrown_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_weathered_limestone": "2021-01-31 17:36:05 +0330"
@@ -2817,6 +2997,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2021-03-16 13:23:53 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2021-01-31 17:12:59 +0330"
@@ -2832,6 +3018,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2021-02-06 23:32:05 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_scoria_stairs": {
+    "criteria": {
+      "has_polished_scoria": "2021-03-16 15:03:24 +0330"
     },
     "done": true
   },
@@ -2943,6 +3135,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/scoria_bricks_wall_from_scoria_bricks_stonecutting": {
+    "criteria": {
+      "has_scoria_bricks": "2021-03-16 15:02:54 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_weathered_limestone_from_weathered_limestone_stonecutting": {
     "criteria": {
       "has_weathered_limestone": "2021-01-31 17:36:05 +0330"
@@ -3039,15 +3237,33 @@
     },
     "done": true
   },
+  "create:wrench": {
+    "criteria": {
+      "0": "2021-03-16 13:40:31 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-01-31 17:35:33 +0330"
     },
     "done": true
   },
+  "create:recipes/create.palettes/fancy_granite_bricks_stairs_from_fancy_granite_bricks_stonecutting": {
+    "criteria": {
+      "has_fancy_granite_bricks": "2021-03-16 14:01:45 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
       "has_wet_sponge": "2021-02-24 15:21:38 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/granite_bricks_wall": {
+    "criteria": {
+      "has_granite_bricks": "2021-03-16 14:01:43 +0330"
     },
     "done": true
   },
@@ -3087,6 +3303,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/paved_granite_wall_from_paved_granite_stonecutting": {
+    "criteria": {
+      "has_paved_granite": "2021-03-16 14:01:48 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_double_plant": "2021-02-13 22:03:45 +0330"
@@ -3114,6 +3336,18 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2021-02-14 00:43:55 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_scoria_slab_from_polished_scoria_stonecutting": {
+    "criteria": {
+      "has_polished_scoria": "2021-03-16 15:03:24 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2021-03-16 14:01:12 +0330"
     },
     "done": true
   },
@@ -3255,7 +3489,8 @@
       "minecraft:silverfish": "2021-02-13 00:56:01 +0330",
       "minecraft:endermite": "2021-02-21 00:27:33 +0330",
       "minecraft:zombie": "2021-02-05 23:11:46 +0330",
-      "minecraft:drowned": "2021-02-06 21:35:31 +0330"
+      "minecraft:drowned": "2021-02-06 21:35:31 +0330",
+      "minecraft:zombie_villager": "2021-03-16 13:15:02 +0330"
     },
     "done": false
   },
@@ -3421,6 +3656,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/paved_diorite_slab": {
+    "criteria": {
+      "has_paved_diorite": "2021-03-16 14:01:58 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
     "criteria": {
       "has_light_gray_dye": "2021-02-25 12:25:33 +0330"
@@ -3484,6 +3725,12 @@
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2021-02-24 14:16:07 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_scoria_slab": {
+    "criteria": {
+      "has_polished_scoria": "2021-03-16 15:03:24 +0330"
     },
     "done": true
   },
@@ -3565,6 +3812,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/paved_granite_wall": {
+    "criteria": {
+      "has_paved_granite": "2021-03-16 14:01:48 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wood": {
     "criteria": {
       "has_log": "2021-02-18 00:44:20 +0330"
@@ -3598,6 +3851,12 @@
   "create:recipes/create.base/crafting/materials/red_sand_paper": {
     "criteria": {
       "has_item": "2021-02-14 11:21:57 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/granite_bricks_stairs_from_granite_bricks_stonecutting": {
+    "criteria": {
+      "has_granite_bricks": "2021-03-16 14:01:43 +0330"
     },
     "done": true
   },
@@ -3643,9 +3902,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/fancy_diorite_bricks_wall": {
+    "criteria": {
+      "has_fancy_diorite_bricks": "2021-03-16 14:02:01 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2021-01-31 17:12:59 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2021-03-16 13:29:32 +0330"
     },
     "done": true
   },
@@ -3760,6 +4031,12 @@
   "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2021-01-31 17:12:59 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/paved_granite_stairs": {
+    "criteria": {
+      "has_paved_granite": "2021-03-16 14:01:48 +0330"
     },
     "done": true
   },
@@ -3882,6 +4159,12 @@
       "minecraft:plains": "2021-02-05 23:15:50 +0330"
     },
     "done": false
+  },
+  "create:recipes/create.palettes/diorite_bricks_slab_from_diorite_bricks_stonecutting": {
+    "criteria": {
+      "has_diorite_bricks": "2021-03-16 14:01:57 +0330"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
@@ -4123,6 +4406,18 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/fancy_granite_bricks_wall": {
+    "criteria": {
+      "has_fancy_granite_bricks": "2021-03-16 14:01:45 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/fancy_scoria_bricks_stairs_from_fancy_scoria_bricks_stonecutting": {
+    "criteria": {
+      "has_fancy_scoria_bricks": "2021-03-16 15:03:00 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
       "has_blue_wool": "2021-02-24 15:23:03 +0330"
@@ -4303,6 +4598,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2021-03-16 14:01:12 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2021-02-24 15:43:27 +0330"
@@ -4318,6 +4619,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2021-02-06 23:27:55 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/paved_diorite_stairs_from_paved_diorite_stonecutting": {
+    "criteria": {
+      "has_paved_diorite": "2021-03-16 14:01:58 +0330"
     },
     "done": true
   },
@@ -4468,6 +4775,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/diorite_bricks_wall": {
+    "criteria": {
+      "has_diorite_bricks": "2021-03-16 14:01:57 +0330"
+    },
+    "done": true
+  },
   "create:its_alive": {
     "criteria": {
       "0": "2021-02-19 12:41:02 +0330"
@@ -4528,9 +4841,27 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/fancy_scoria_bricks_wall_from_fancy_scoria_bricks_stonecutting": {
+    "criteria": {
+      "has_fancy_scoria_bricks": "2021-03-16 15:03:00 +0330"
+    },
+    "done": true
+  },
+  "create:mechanical_saw": {
+    "criteria": {
+      "0": "2021-03-16 13:35:04 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_carpet": {
     "criteria": {
       "has_orange_wool": "2021-02-19 00:45:54 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/paved_diorite_wall_from_paved_diorite_stonecutting": {
+    "criteria": {
+      "has_paved_diorite": "2021-03-16 14:01:58 +0330"
     },
     "done": true
   },
@@ -4555,6 +4886,12 @@
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_cyan_wool": "2021-02-24 15:22:59 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/paved_scoria_slab": {
+    "criteria": {
+      "has_paved_scoria": "2021-03-16 15:03:17 +0330"
     },
     "done": true
   },
@@ -4585,6 +4922,12 @@
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2021-02-13 22:36:49 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/paved_granite_slab_from_paved_granite_stonecutting": {
+    "criteria": {
+      "has_paved_granite": "2021-03-16 14:01:48 +0330"
     },
     "done": true
   },
@@ -4732,6 +5075,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/paved_diorite_slab_from_paved_diorite_stonecutting": {
+    "criteria": {
+      "has_paved_diorite": "2021-03-16 14:01:58 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2021-02-01 23:55:52 +0330"
@@ -4765,6 +5114,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2021-01-31 17:35:33 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/fancy_diorite_bricks_slab": {
+    "criteria": {
+      "has_fancy_diorite_bricks": "2021-03-16 14:02:01 +0330"
     },
     "done": true
   },
@@ -4819,6 +5174,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2021-02-14 00:43:55 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/scoria_bricks_wall": {
+    "criteria": {
+      "has_scoria_bricks": "2021-03-16 15:02:54 +0330"
     },
     "done": true
   },
@@ -4900,6 +5261,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/paved_scoria_stairs_from_paved_scoria_stonecutting": {
+    "criteria": {
+      "has_paved_scoria": "2021-03-16 15:03:17 +0330"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2021-03-09 00:24:34 +0330"
@@ -4942,6 +5309,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/granite_bricks_slab": {
+    "criteria": {
+      "has_granite_bricks": "2021-03-16 14:01:43 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2021-02-05 23:21:08 +0330"
@@ -4972,6 +5345,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/fancy_granite_bricks_wall_from_fancy_granite_bricks_stonecutting": {
+    "criteria": {
+      "has_fancy_granite_bricks": "2021-03-16 14:01:45 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2021-02-07 00:01:22 +0330"
@@ -4987,6 +5366,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2021-02-06 23:32:05 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/fancy_scoria_bricks_stairs": {
+    "criteria": {
+      "has_fancy_scoria_bricks": "2021-03-16 15:03:00 +0330"
     },
     "done": true
   },
@@ -5080,6 +5465,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/scoria_bricks_slab_from_scoria_bricks_stonecutting": {
+    "criteria": {
+      "has_scoria_bricks": "2021-03-16 15:02:54 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/spruce_window_pane": {
     "criteria": {
       "has_ingredient": "2021-02-24 14:07:30 +0330"
@@ -5113,6 +5504,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_smooth_quartz": "2021-02-26 16:46:28 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/fancy_granite_bricks_slab": {
+    "criteria": {
+      "has_fancy_granite_bricks": "2021-03-16 14:01:45 +0330"
     },
     "done": true
   },
@@ -5362,6 +5759,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/diorite_bricks_slab": {
+    "criteria": {
+      "has_diorite_bricks": "2021-03-16 14:01:57 +0330"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-01-31 17:36:04 +0330"
@@ -5473,6 +5876,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2021-01-31 17:43:04 +0330"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_scoria_wall": {
+    "criteria": {
+      "has_polished_scoria": "2021-03-16 15:03:24 +0330"
     },
     "done": true
   },
