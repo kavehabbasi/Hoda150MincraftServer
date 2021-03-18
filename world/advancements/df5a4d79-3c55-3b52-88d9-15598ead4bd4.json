@@ -3279,6 +3279,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2021-03-19 01:16:20 +0330"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2021-02-07 00:55:07 +0330"
@@ -3546,6 +3552,7 @@
       "minecraft:magma_cube": "2021-03-14 00:05:34 +0330",
       "minecraft:spider": "2021-02-06 23:57:20 +0330",
       "minecraft:creeper": "2021-02-05 23:08:40 +0330",
+      "minecraft:slime": "2021-03-18 23:56:56 +0330",
       "minecraft:phantom": "2021-02-26 17:00:49 +0330",
       "minecraft:zombified_piglin": "2021-02-21 01:02:23 +0330",
       "minecraft:witch": "2021-02-11 16:48:32 +0330",
@@ -5195,6 +5202,12 @@
   "create:recipes/create.palettes/paved_diorite_slab_from_paved_diorite_stonecutting": {
     "criteria": {
       "has_paved_diorite": "2021-03-16 14:01:58 +0330"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2021-03-18 23:09:05 +0330"
     },
     "done": true
   },
