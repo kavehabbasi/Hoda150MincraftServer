@@ -1895,6 +1895,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:turtle": "2021-04-23 02:50:17 +0430",
       "minecraft:cow": "2021-02-12 00:33:48 +0330"
     },
     "done": false
